@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/sql/queries/feed_follows.sql" value="66f79ebf-1ad6-45c1-9d1e-f8345abfa382" />
+    <file url="file://$PROJECT_DIR$/sql/queries/feeds.sql" value="66f79ebf-1ad6-45c1-9d1e-f8345abfa382" />
+    <file url="file://$PROJECT_DIR$/sql/queries/posts.sql" value="66f79ebf-1ad6-45c1-9d1e-f8345abfa382" />
+    <file url="file://$PROJECT_DIR$/sql/queries/users.sql" value="66f79ebf-1ad6-45c1-9d1e-f8345abfa382" />
+    <file url="file://$PROJECT_DIR$/sql/schema/001_users.sql" value="66f79ebf-1ad6-45c1-9d1e-f8345abfa382" />
+    <file url="file://$PROJECT_DIR$/sql/schema/002_feeds.sql" value="66f79ebf-1ad6-45c1-9d1e-f8345abfa382" />
+    <file url="file://$PROJECT_DIR$/sql/schema/003_feed_follows.sql" value="66f79ebf-1ad6-45c1-9d1e-f8345abfa382" />
+    <file url="file://$PROJECT_DIR$/sql/schema/004_add_last_fetched_at_to_feeds.sql" value="66f79ebf-1ad6-45c1-9d1e-f8345abfa382" />
+    <file url="file://$PROJECT_DIR$/sql/schema/005_posts.sql" value="66f79ebf-1ad6-45c1-9d1e-f8345abfa382" />
+  </component>
+</project>
